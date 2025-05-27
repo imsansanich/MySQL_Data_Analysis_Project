@@ -10,3 +10,8 @@ This project showcases my SQL skills acquired during an **IBM course**. The data
 This query identifies the highest `Waste` value for each unique station and the corresponding date when this maximum was recorded. It leverages the `RANK()` window function to achieve this.
 
 [View Query Code](queries/max_waste_per_station.sql)
+### 2. Volvo Trucks Average Waste by Weekday
+
+This query identifies the days of the week when Volvo trucks collected the highest average waste. It displays the weekday name, truck name, and the average waste, ordered by the highest average waste.
+
+[View Query Code](queries/volvo_trucks_avg_waste_by_weekday.sql)
