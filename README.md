@@ -3,7 +3,7 @@ I love to learn :)
 
 ## About This Project
 
-This project showcases my SQL skills acquired during an **IBM course**. Throughout the coursework, I gained extensive hands-on experience working with relational databases, processing a wide variety of datasets, and performing complex data retrieval, aggregation, and analysis using SQL. While this repository focuses on truck trip analysis, I have also worked with **various other datasets and databases**, creating a wide range of SQL queries. I chose this particular project to upload as a representative example of my work and practical abilities.
+This project showcases my SQL skills acquired during an **IBM course**. The data used in this repository, provided by IBM as part of the coursework. Throughout the coursework, I gained extensive hands-on experience working with relational databases, processing a wide variety of datasets, and performing complex data retrieval, aggregation, and analysis using SQL. While this repository focuses on truck trip analysis, I have also worked with **various other datasets and databases**, creating a wide range of SQL queries. I chose this particular project to upload as a representative example of my work and practical abilities.
 
 ## SQL Queries
 ### 1. Maximum Waste per Station
