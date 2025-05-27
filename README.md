@@ -50,3 +50,8 @@ This query calculates the average amount of waste collected for each individual 
 This query identifies the weekday that records the highest average waste collection. It helps in understanding daily patterns and optimizing resource allocation for waste management.
 
 [View Query Code](queries/busiest_weekday_by_waste.sql)
+### 10. Trips with Waste Exceeding 40 Units
+
+This query retrieves all trip IDs and their corresponding waste amounts where the collected waste exceeded 40 units. It's useful for identifying high-volume collection instances.
+
+[View Query Code](queries/trips_waste_greater_than_40.sql)
