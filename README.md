@@ -20,3 +20,8 @@ This query identifies the days of the week when Volvo trucks collected the highe
 This query identifies the maximum waste collected specifically for stations located in 'Sao Paulo' during the first quarter (Q1) of the year.
 
 [View Query Code](queries/max_waste_q1_sao_paulo.sql)
+### 4. Minimum Waste per Quarter in 2019
+
+This query calculates the minimum amount of waste collected for each quarter specifically in the year 2019.
+
+[View Query Code](queries/min_waste_per_quarter_2019.sql)
