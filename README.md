@@ -40,3 +40,8 @@ This query counts the total number of occurrences for each unique truck name, pr
 This query identifies the top 5 days (by date) that recorded the highest total waste collection across all stations and trucks. It highlights peak waste collection periods.
 
 [View Query Code](queries/top_5_waste_days.sql)
+### 8. Average Waste Collected per Date
+
+This query calculates the average amount of waste collected for each individual date, providing insight into daily collection efficiency.
+
+[View Query Code](queries/avg_waste_per_date.sql)
