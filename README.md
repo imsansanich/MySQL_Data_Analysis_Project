@@ -15,3 +15,8 @@ This query identifies the highest `Waste` value for each unique station and the 
 This query identifies the days of the week when Volvo trucks collected the highest average waste. It displays the weekday name, truck name, and the average waste, ordered by the highest average waste.
 
 [View Query Code](queries/volvo_trucks_avg_waste_by_weekday.sql)
+### 3. Maximum Waste in Q1 for Sao Paulo Stations
+
+This query identifies the maximum waste collected specifically for stations located in 'Sao Paulo' during the first quarter (Q1) of the year.
+
+[View Query Code](queries/max_waste_q1_sao_paulo.sql)
