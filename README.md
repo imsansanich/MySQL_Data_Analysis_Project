@@ -25,3 +25,8 @@ This query identifies the maximum waste collected specifically for stations loca
 This query calculates the minimum amount of waste collected for each quarter specifically in the year 2019.
 
 [View Query Code](queries/min_waste_per_quarter_2019.sql)
+### 5. Total Waste Collected by City
+
+This query calculates the total amount of waste collected for each city (station). It displays the city name and the accumulated total waste.
+
+[View Query Code](queries/total_waste_by_city.sql)
