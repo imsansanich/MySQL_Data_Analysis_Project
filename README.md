@@ -35,3 +35,8 @@ This query calculates the total amount of waste collected for each city (station
 This query counts the total number of occurrences for each unique truck name, providing a simple tally of how many times each truck type appears in the dataset.
 
 [View Query Code](queries/truck_counts_by_name.sql)
+### 7. Top 5 Days with Highest Total Waste
+
+This query identifies the top 5 days (by date) that recorded the highest total waste collection across all stations and trucks. It highlights peak waste collection periods.
+
+[View Query Code](queries/top_5_waste_days.sql)
