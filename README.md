@@ -30,3 +30,8 @@ This query calculates the minimum amount of waste collected for each quarter spe
 This query calculates the total amount of waste collected for each city (station). It displays the city name and the accumulated total waste.
 
 [View Query Code](queries/total_waste_by_city.sql)
+### 6. Truck Names with Their Count
+
+This query counts the total number of occurrences for each unique truck name, providing a simple tally of how many times each truck type appears in the dataset.
+
+[View Query Code](queries/truck_counts_by_name.sql)
