@@ -45,3 +45,8 @@ This query identifies the top 5 days (by date) that recorded the highest total w
 This query calculates the average amount of waste collected for each individual date, providing insight into daily collection efficiency.
 
 [View Query Code](queries/avg_waste_per_date.sql)
+### 9. Busiest Weekday by Waste Volume
+
+This query identifies the weekday that records the highest average waste collection. It helps in understanding daily patterns and optimizing resource allocation for waste management.
+
+[View Query Code](queries/busiest_weekday_by_waste.sql)
